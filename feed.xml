@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"><channel><title>管理世界·论文深度解读</title><link>https://yonghaili.github.io/paper-podcast-feed/</link><language>zh-CN</language><description>对《管理世界》已发表论文的学习性深度解读与评述（AI 合成语音）。每期一篇，围绕研究问题、理论框架、方法、发现、贡献与局限展开，供教学与研究参考。内容非论文原文朗读，引用请以原文为准。</description><itunes:author>李永海</itunes:author><itunes:summary>对《管理世界》已发表论文的学习性深度解读与评述（AI 合成语音）。每期一篇，围绕研究问题、理论框架、方法、发现、贡献与局限展开，供教学与研究参考。内容非论文原文朗读，引用请以原文为准。</itunes:summary><itunes:type>episodic</itunes:type><itunes:owner><itunes:name>李永海</itunes:name><itunes:email>yhli.neu@gmail.com</itunes:email></itunes:owner><itunes:image href="https://yonghaili.github.io/paper-podcast-feed/cover/channel.jpg" /><image><url>https://yonghaili.github.io/paper-podcast-feed/cover/channel.jpg</url><title>管理世界·论文深度解读</title><link>https://yonghaili.github.io/paper-podcast-feed/</link></image><itunes:category text="Education" /><itunes:explicit>false</itunes:explicit><atom:link href="https://yonghaili.github.io/paper-podcast-feed/feed.xml" rel="self" type="application/rss+xml" /><lastBuildDate>Thu, 24 Sep 2026 09:13:43 +0800</lastBuildDate><item><title>论文解读 01｜从“机器换人”走向人机共生（何江 等）</title><itunes:title>论文解读 01｜从“机器换人”走向人机共生（何江 等）</itunes:title><itunes:episode>1</itunes:episode><description>本期解读：何江、闫淑敏、夏青、张煜良《从“机器换人”走向人机共生：传统制造企业人机混合劳动力的共生演化过程机制研究》，《管理世界》2026年第9期。
+
+【本期要点】
+· 问题：传统制造企业如何破解“既要机器换人、又要人机共生”的结构性矛盾
+· 视角：把机器视为与员工并肩协作共生的“劳动行动主体”，以共生理论与价值共生论为基础
+· 方法：纵向单案例研究（正泰案例）
+· 发现：关系演化与价值演化两条主导逻辑，因非对称性形成“异步性缺口”，双轮交替循环、彼此触发，把“机器换人”与人机共生缝为“一体两翼”
+· 教学与研究启发：人机分工的多层次迭代（操作/动力/控制/智能主体）、“人机料法产环”多要素重构、从能力跃升到价值跃升
+
+【声明】本节目音频由 AI 生成（NotebookLM），内容为对该论文的学习性解读与评述，不是论文原文朗读；观点与数据的准确引用请以原文为准。论文版权归原作者与《管理世界》所有，本节目仅用于教学与研究交流。</description><enclosure url="https://github.com/yonghaili/paper-podcast-feed/releases/download/ep01/ep01.mp3" length="27751602" type="audio/mpeg" /><guid isPermaLink="false">guilin-87a0448621e2cd70</guid><pubDate>Thu, 24 Sep 2026 09:13:43 +0800</pubDate><itunes:duration>00:19:16</itunes:duration><itunes:explicit>false</itunes:explicit><itunes:image href="https://yonghaili.github.io/paper-podcast-feed/cover/ep01.jpg" /><link>https://yonghaili.github.io/paper-podcast-feed/</link></item></channel></rss>
